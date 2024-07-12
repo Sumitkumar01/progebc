@@ -60,7 +60,7 @@ const YouTube = () => {
                 <div className="w-full h-[100%] md:w-[60%] lg:w-[60%]">
                     <div className="img-container">
                         <iframe width="100%" height="400px"
-                            src="https://www.youtube.com/embed/8RejDC67L_I?loop=1&mute=1&autoplay=1" frameborder="0"
+                            src="https://www.youtube.com/embed/8RejDC67L_I?loop=1&mute=1&autoplay=1" frameBorder="0"
                             allowFullScreen></iframe>
                     </div>
 
