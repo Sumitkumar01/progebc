@@ -339,7 +339,7 @@ function Peakage() {
       <div className="py-12 px-6">
         <InstaGrid />
         <div className="mt-10">
-          <WhatInstaButton button={"insta"} link="https://instagram.com" />
+          <WhatInstaButton button={"insta"} link="https://www.instagram.com/ebcmussoorie/" />
         </div>
 
         <div className="maxwidth mx-auto mt-10">

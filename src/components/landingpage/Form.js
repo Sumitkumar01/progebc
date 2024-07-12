@@ -8,7 +8,7 @@ import { Face, Insta, Trip } from '../../icons/icons';
 
 const Form = () => {
     return (
-        <div className="w-full md:w-[1280px] mx-auto py-5 rounded-sm bg-[#D5D5D5]">
+        <div className="w-full md:w-[1280px] mx-auto py-5 rounded-sm bg-[#D5D5D5]" id="contact">
             <div className="text-center text-5xl font-bold text-[#29422C] capitalize leading-[56.16px] ">
                 Contact Us
             </div>
@@ -45,7 +45,7 @@ const Form = () => {
                             referrerPolicy="no-referrer-when-downgrade" />
                     </div>
                 </div>
-                <div className="flex flex-col w-full md:w-[40%]">
+                <div className="flex flex-col w-full md:w-[40%]" >
                     <div className="flex flex-col grow justify-center max-md:mt-10">
                         <div className="flex flex-col px-6 py-7 rounded-sm blur-none bg-black bg-opacity-30 max-md:px-5">
                             <div className="text-2xl font-semibold leading-7 text-[#29422C]">
